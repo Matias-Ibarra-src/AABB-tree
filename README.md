@@ -6,7 +6,7 @@ algoritmo de detección de colisiones hecho en c++.
 <h1>AABB tree Collision detección</h1>
 
 <h3>Instrucciones de ejecución</h3>
-- Clonar el repositorio en un carpeta.
+- Clonar el repositorio en un carpeta. \n
 - Abrir el codigo con Visual Studio Code.
 - Ejecutar en la terminal el siguiente codigo: g++ -std=c++17 -O2 -Wall -m64 main.cpp.
 
