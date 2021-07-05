@@ -1,6 +1,3 @@
-# AABB-tree
-Algoritmo de detección de colisiones
-
 algoritmo de detección de colisiones hecho en c++.
 
 <h1>AABB tree Collision detección</h1>
